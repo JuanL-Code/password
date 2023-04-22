@@ -1,5 +1,4 @@
 const http = require('http');
-const fs = require('fs');
 
 function generatePassword() {
    var length = 12,
